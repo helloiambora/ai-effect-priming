@@ -95,7 +95,13 @@ Run notebook 01 first, then notebook 02. They run on Python 3.8 with pandas 2.0 
 
 ## Data and privacy
 
-Participation was anonymous and no names, e-mail addresses or IP addresses were collected. Before sharing the data I removed the submission timestamps and the platform's internal IDs, and replaced the participant IDs with shuffled codes (`scripts/anonymize_raw_export.py`). The raw export is not in this repository.
+The experiment was run as a course practicum, supervised by the course lecturer. [It did not go through a formal ethics committee review.]
+
+Participants were 18 or older, read a study information and informed consent page before starting, and took part voluntarily. They could stop at any time by closing the browser.
+
+Like most priming studies, this one used a cover story. Participants were told the study was about design preferences and question difficulty, not about being reminded of AI. They were told the real purpose afterwards.
+
+The data contains no names, e-mail addresses or IP addresses. Before sharing it I removed the submission timestamps and the platform's internal IDs, and replaced the participant IDs with shuffled codes (scripts/anonymize_raw_export.py). The raw export is not in this repository.
 
 ## How this was made, and where AI was used
 

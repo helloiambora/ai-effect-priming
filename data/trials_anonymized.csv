@@ -1,0 +1,781 @@
+participant,question_type,question_id,response,accuracy,attribute,response_time,task_id,experiment_id,time_elapsed
+P01,,8319,questions/October2026/6yYtSazNHmMUbBzfT7pX.png,,right,19086,3506,AI Semantic Priming,37142
+P01,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,3248,3506,AI Semantic Priming,40500
+P01,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,2227,3506,AI Semantic Priming,42838
+P01,,8322,questions/October2026/IKQ1kK4jgKyFbXSbaYZ1.png,,left,2480,3506,AI Semantic Priming,45430
+P01,,8323,questions/October2026/rxc8tdBpNBJF73PEehNF.png,,right,7804,3506,AI Semantic Priming,53346
+P01,TRIVIA,Trivia3,I don't know,I don't know,,20705,3511,AI Semantic Priming,84189
+P01,LOGIC,Logic1,11,Wrong,,37136,3511,AI Semantic Priming,121441
+P01,CRT,CRT3,None,Correct,,19309,3511,AI Semantic Priming,140866
+P01,LOGIC,Logic2,200,Correct,,52434,3511,AI Semantic Priming,193421
+P01,TRIVIA,Trivia4,I don't know,I don't know,,17437,3511,AI Semantic Priming,210981
+P01,TRIVIA,Trivia2,I don't know,I don't know,,6955,3511,AI Semantic Priming,218048
+P01,TRIVIA,Trivia1,I don't know,I don't know,,4864,3511,AI Semantic Priming,223027
+P01,CRT,CRT2,I don't know,I don't know,,7632,3511,AI Semantic Priming,230771
+P01,CRT,CRT4,First,Wrong,,10739,3511,AI Semantic Priming,241623
+P01,CRT,CRT1,7,Wrong,,8708,3511,AI Semantic Priming,250437
+P01,,Age,25-34,,,35105,3512,AI Semantic Priming,287355
+P01,,Gender,Male,,,4868,3512,AI Semantic Priming,292337
+P01,,Education,Master’s Degree (or equivalent),,,4602,3512,AI Semantic Priming,297049
+P01,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,6649,3512,AI Semantic Priming,303810
+P01,,AIFrequency,A few times a week,,,4335,3512,AI Semantic Priming,308259
+P02,,8314,questions/October2026/T3VOcActeh5augvy0I4N.png,,right,16495,3505,Google Effect Control,77892
+P02,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,13764,3505,Google Effect Control,91758
+P02,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,15833,3505,Google Effect Control,107707
+P02,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,2874,3505,Google Effect Control,110705
+P02,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,6519,3505,Google Effect Control,117333
+P02,CRT,CRT1,8,Correct,,10179,3511,Google Effect Control,170531
+P02,TRIVIA,Trivia3,I don't know,I don't know,,15253,3511,Google Effect Control,185887
+P02,TRIVIA,Trivia2,I don't know,I don't know,,16179,3511,Google Effect Control,202168
+P02,CRT,CRT4,Second,Correct,,14857,3511,Google Effect Control,217127
+P02,TRIVIA,Trivia1,I don't know,I don't know,,6687,3511,Google Effect Control,223918
+P02,CRT,CRT2,Emily,Correct,,17274,3511,Google Effect Control,241295
+P02,CRT,CRT3,None,Correct,,16364,3511,Google Effect Control,257763
+P02,LOGIC,Logic2,200,Correct,,36815,3511,Google Effect Control,294681
+P02,LOGIC,Logic1,4,Correct,,40747,3511,Google Effect Control,335531
+P02,TRIVIA,Trivia4,The Red Sea,Wrong,,12228,3511,Google Effect Control,347861
+P02,,Age,25-34,,,4212,3512,Google Effect Control,708699
+P02,,Gender,Male,,,3054,3512,Google Effect Control,711858
+P02,,Education,High School / Secondary Education,,,62909,3512,Google Effect Control,774872
+P02,,EnglishFluency,Native / Bilingual proficiency,,,7252,3512,Google Effect Control,782227
+P02,,AIFrequency,Rarely or Never,,,5405,3512,Google Effect Control,787734
+P03,,8319,questions/October2026/6yYtSazNHmMUbBzfT7pX.png,,right,4156,3506,AI Semantic Priming,16161
+P03,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,1770,3506,AI Semantic Priming,18035
+P03,,8321,questions/October2026/Cr2Lz4UNdKmaqswaccm3.png,,right,1672,3506,AI Semantic Priming,19813
+P03,,8322,questions/October2026/oRCv7zM4tjvMs1mIb7zX.png,,right,3867,3506,AI Semantic Priming,23783
+P03,,8323,questions/October2026/ORkwgUxmT8jJLf1RtK3F.png,,left,3449,3506,AI Semantic Priming,27336
+P03,LOGIC,Logic2,200,Correct,,19838,3511,AI Semantic Priming,48168
+P03,TRIVIA,Trivia4,I don't know,I don't know,,65956,3511,AI Semantic Priming,114230
+P03,TRIVIA,Trivia2,I don't know,I don't know,,9879,3511,AI Semantic Priming,124220
+P03,CRT,CRT3,None,Correct,,53566,3511,AI Semantic Priming,177896
+P03,TRIVIA,Trivia1,I don't know,I don't know,,13228,3511,AI Semantic Priming,191236
+P03,LOGIC,Logic1,4,Correct,,31264,3511,AI Semantic Priming,222610
+P03,CRT,CRT1,7,Wrong,,4599,3511,AI Semantic Priming,227315
+P03,CRT,CRT4,Second,Correct,,4797,3511,AI Semantic Priming,232219
+P03,CRT,CRT2,Emily,Correct,,6221,3511,AI Semantic Priming,238543
+P03,TRIVIA,Trivia3,Helium,Correct,,29147,3511,AI Semantic Priming,267796
+P03,,Age,18-24,,,3102,3512,AI Semantic Priming,272155
+P03,,Gender,Female,,,3054,3512,AI Semantic Priming,275316
+P03,,Education,Bachelor’s Degree (or equivalent),,,7304,3512,AI Semantic Priming,282727
+P03,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,6254,3512,AI Semantic Priming,289085
+P03,,AIFrequency,A few times a week,,,11529,3512,AI Semantic Priming,300720
+P04,,8329,questions/October2026/V5qgkPL9u3kaYLn28eWY.png,,left,1999,3508,Neutral Condition,21331
+P04,,8330,questions/October2026/wfXbvCnWE66psxN9ZNVl.png,,left,2437,3508,Neutral Condition,23873
+P04,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,2411,3508,Neutral Condition,26388
+P04,,8332,questions/October2026/rS4mnk3E1HSudhUTPlwf.png,,right,1080,3508,Neutral Condition,27570
+P04,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,2897,3508,Neutral Condition,30570
+P04,CRT,CRT4,Second,Correct,,4651,3511,Neutral Condition,54356
+P04,LOGIC,Logic1,4,Correct,,8486,3511,Neutral Condition,62947
+P04,TRIVIA,Trivia3,Helium,Correct,,6659,3511,Neutral Condition,69709
+P04,TRIVIA,Trivia2,O-negative,Wrong,,4130,3511,Neutral Condition,73949
+P04,TRIVIA,Trivia1,I don't know,I don't know,,6707,3511,Neutral Condition,80761
+P04,TRIVIA,Trivia4,The Sargasso Sea,Correct,,9707,3511,Neutral Condition,90573
+P04,CRT,CRT3,27,Wrong,,7033,3511,Neutral Condition,97712
+P04,CRT,CRT2,Emily,Correct,,4765,3511,Neutral Condition,102582
+P04,LOGIC,Logic2,200,Correct,,17658,3511,Neutral Condition,120347
+P04,CRT,CRT1,8,Correct,,6196,3511,Neutral Condition,126647
+P04,,Age,25-34,,,2603,3512,Neutral Condition,148434
+P04,,Gender,Male,,,1828,3512,Neutral Condition,150367
+P04,,Education,Bachelor’s Degree (or equivalent),,,5544,3512,Neutral Condition,156015
+P04,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,3281,3512,Neutral Condition,159401
+P04,,AIFrequency,Daily,,,4481,3512,Neutral Condition,163987
+P05,,8329,questions/October2026/V5qgkPL9u3kaYLn28eWY.png,,left,2028,3508,Neutral Condition,19248
+P05,,8330,questions/October2026/9WgKU32jpRPbzAoHvi6T.png,,right,1841,3508,Neutral Condition,21198
+P05,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,1691,3508,Neutral Condition,22998
+P05,,8332,questions/October2026/rS4mnk3E1HSudhUTPlwf.png,,right,1313,3508,Neutral Condition,24419
+P05,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,1459,3508,Neutral Condition,25984
+P05,CRT,CRT4,Second,Correct,,4673,3511,Neutral Condition,43964
+P05,TRIVIA,Trivia3,I don't know,I don't know,,6595,3511,Neutral Condition,50676
+P05,TRIVIA,Trivia4,I don't know,I don't know,,6323,3511,Neutral Condition,57113
+P05,CRT,CRT1,8,Correct,,16041,3511,Neutral Condition,73266
+P05,TRIVIA,Trivia1,I don't know,I don't know,,4311,3511,Neutral Condition,77696
+P05,CRT,CRT3,I don't know,I don't know,,6302,3511,Neutral Condition,84118
+P05,CRT,CRT2,June,Wrong,,17002,3511,Neutral Condition,101235
+P05,TRIVIA,Trivia2,O-negative,Wrong,,7754,3511,Neutral Condition,109109
+P05,LOGIC,Logic2,300,Wrong,,14764,3511,Neutral Condition,123993
+P05,LOGIC,Logic1,I don't know,I don't know,,32176,3511,Neutral Condition,156290
+P05,,Age,18-24,,,2598,3512,Neutral Condition,161073
+P05,,Gender,Female,,,2114,3512,Neutral Condition,163304
+P05,,Education,Bachelor’s Degree (or equivalent),,,5329,3512,Neutral Condition,168750
+P05,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,5714,3512,Neutral Condition,174582
+P05,,AIFrequency,Rarely or Never,,,6162,3512,Neutral Condition,180860
+P06,,8329,questions/October2026/pqGjxovCOVrsTzSkKlaB.png,,right,4561,3508,Neutral Condition,10804
+P06,,8330,questions/October2026/9WgKU32jpRPbzAoHvi6T.png,,right,3382,3508,Neutral Condition,14290
+P06,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,1595,3508,Neutral Condition,15989
+P06,,8332,questions/October2026/Tp3ZSG5KbMoJzfd6Ass9.png,,left,1826,3508,Neutral Condition,17918
+P06,,8333,questions/October2026/TlPH5PMBTF7uMkSAGheo.png,,right,1545,3508,Neutral Condition,19566
+P06,CRT,CRT2,Emily,Correct,,11825,3511,Neutral Condition,32814
+P06,TRIVIA,Trivia3,I don't know,I don't know,,5787,3511,Neutral Condition,38705
+P06,TRIVIA,Trivia4,I don't know,I don't know,,5552,3511,Neutral Condition,44361
+P06,TRIVIA,Trivia1,I don't know,I don't know,,4590,3511,Neutral Condition,49054
+P06,LOGIC,Logic1,33,Wrong,,9196,3511,Neutral Condition,58354
+P06,CRT,CRT4,First,Wrong,,6421,3511,Neutral Condition,64878
+P06,CRT,CRT1,I don't know,I don't know,,18068,3511,Neutral Condition,83050
+P06,LOGIC,Logic2,300,Wrong,,38550,3511,Neutral Condition,121704
+P06,CRT,CRT3,I don't know,I don't know,,5934,3511,Neutral Condition,127744
+P06,TRIVIA,Trivia2,Bombay phenotype,Wrong,,7600,3511,Neutral Condition,135449
+P06,,Age,18-24,,,1859,3512,Neutral Condition,138476
+P06,,Gender,Female,,,1694,3512,Neutral Condition,140274
+P06,,Education,Bachelor’s Degree (or equivalent),,,6817,3512,Neutral Condition,147197
+P06,,EnglishFluency,Intermediate proficiency (B1-B2),,,6302,3512,Neutral Condition,153604
+P06,,AIFrequency,A few times a week,,,6037,3512,Neutral Condition,159745
+P07,,8314,questions/October2026/T3VOcActeh5augvy0I4N.png,,right,3131,3505,Google Effect Control,15086
+P07,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,2912,3505,Google Effect Control,18103
+P07,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,2148,3505,Google Effect Control,20355
+P07,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,1217,3505,Google Effect Control,21676
+P07,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1115,3505,Google Effect Control,22894
+P07,LOGIC,Logic2,200,Correct,,27905,3511,Google Effect Control,51686
+P07,CRT,CRT3,I don't know,I don't know,,4994,3511,Google Effect Control,56787
+P07,TRIVIA,Trivia2,O-negative,Wrong,,6788,3511,Google Effect Control,63680
+P07,CRT,CRT4,Second,Correct,,5285,3511,Google Effect Control,69070
+P07,TRIVIA,Trivia3,I don't know,I don't know,,10047,3511,Google Effect Control,79224
+P07,CRT,CRT1,8,Correct,,6737,3511,Google Effect Control,86067
+P07,TRIVIA,Trivia1,I don't know,I don't know,,5246,3511,Google Effect Control,91416
+P07,CRT,CRT2,Emily,Correct,,10054,3511,Google Effect Control,101576
+P07,TRIVIA,Trivia4,I don't know,I don't know,,5058,3511,Google Effect Control,106740
+P07,LOGIC,Logic1,I don't know,I don't know,,40493,3511,Google Effect Control,147337
+P07,,Age,18-24,,,1719,3512,Google Effect Control,150187
+P07,,Gender,Male,,,1211,3512,Google Effect Control,151505
+P07,,Education,Bachelor’s Degree (or equivalent),,,2376,3512,Google Effect Control,153989
+P07,,EnglishFluency,Native / Bilingual proficiency,,,3123,3512,Google Effect Control,157219
+P07,,AIFrequency,A few times a week,,,8619,3512,Google Effect Control,165944
+P08,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,2064,3507,AI Brand Priming,68078
+P08,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,2006,3507,AI Brand Priming,70189
+P08,,8326,questions/October2026/KZa0oC8WfXJEwpZVKJns.png,,left,2691,3507,AI Brand Priming,72984
+P08,,8327,questions/October2026/JSYhyS8qqOJdHFVNfqvB.png,,left,2989,3507,AI Brand Priming,76078
+P08,,8328,questions/October2026/xMU1JJC2Rj6nZOoVbM5O.png,,right,2380,3507,AI Brand Priming,78563
+P08,TRIVIA,Trivia1,I don't know,I don't know,,7992,3511,AI Brand Priming,88150
+P08,TRIVIA,Trivia4,The Red Sea,Wrong,,3352,3511,AI Brand Priming,91607
+P08,LOGIC,Logic1,I don't know,I don't know,,14299,3511,AI Brand Priming,106010
+P08,CRT,CRT4,First,Wrong,,11030,3511,AI Brand Priming,117144
+P08,TRIVIA,Trivia3,Hydrogen,Wrong,,7129,3511,AI Brand Priming,124377
+P08,CRT,CRT2,Emily,Correct,,23309,3511,AI Brand Priming,147792
+P08,CRT,CRT1,7,Wrong,,37228,3511,AI Brand Priming,185123
+P08,LOGIC,Logic2,I don't know,I don't know,,13776,3511,AI Brand Priming,199007
+P08,CRT,CRT3,I don't know,I don't know,,12737,3511,AI Brand Priming,211847
+P08,TRIVIA,Trivia2,AB-negative,Wrong,,11435,3511,AI Brand Priming,223388
+P08,,Age,18-24,,,3780,3512,AI Brand Priming,229965
+P08,,Gender,Male,,,2149,3512,AI Brand Priming,232219
+P08,,Education,High School / Secondary Education,,,3939,3512,AI Brand Priming,236261
+P08,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,17563,3512,AI Brand Priming,253929
+P08,,AIFrequency,Daily,,,4965,3512,AI Brand Priming,258999
+P09,,8314,questions/October2026/3eJA6Eh7zvMJfpywxXfm.png,,left,655,3505,Google Effect Control,13169
+P09,,8315,questions/October2026/SCDiHb0HO7lS0X0sdZCq.png,,right,1970,3505,Google Effect Control,15242
+P09,,8316,questions/October2026/Fq7QXyHB6yxRcbG7l5xl.png,,left,764,3505,Google Effect Control,16110
+P09,,8317,questions/October2026/c8qiznPY6s5mPjWBnAPk.png,,left,946,3505,Google Effect Control,17160
+P09,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,847,3505,Google Effect Control,18109
+P09,TRIVIA,Trivia3,Argon,Wrong,,4589,3511,Google Effect Control,23622
+P09,TRIVIA,Trivia2,Rh-null,Correct,,1788,3511,Google Effect Control,25515
+P09,CRT,CRT1,8,Correct,,3846,3511,Google Effect Control,29465
+P09,TRIVIA,Trivia1,Sully Prudhomme,Correct,,3665,3511,Google Effect Control,33233
+P09,LOGIC,Logic2,200,Correct,,3628,3511,Google Effect Control,36966
+P09,CRT,CRT4,Second,Correct,,4564,3511,Google Effect Control,41634
+P09,CRT,CRT2,Emily,Correct,,2313,3511,Google Effect Control,44051
+P09,CRT,CRT3,None,Correct,,6346,3511,Google Effect Control,50501
+P09,LOGIC,Logic1,4,Correct,,24448,3511,Google Effect Control,75054
+P09,TRIVIA,Trivia4,I don't know,I don't know,,5110,3511,Google Effect Control,80272
+P09,,Age,18-24,,,1533,3512,Google Effect Control,83106
+P09,,Gender,Male,,,1565,3512,Google Effect Control,84774
+P09,,Education,Bachelor’s Degree (or equivalent),,,4363,3512,Google Effect Control,89240
+P09,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,8414,3512,Google Effect Control,97758
+P09,,AIFrequency,A few times a week,,,10748,3512,Google Effect Control,108610
+P10,,8314,questions/October2026/T3VOcActeh5augvy0I4N.png,,right,2347,3505,Google Effect Control,6607
+P10,,8315,questions/October2026/SCDiHb0HO7lS0X0sdZCq.png,,right,482,3505,Google Effect Control,7193
+P10,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,96,3505,Google Effect Control,7393
+P10,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,170,3505,Google Effect Control,7668
+P10,,8318,questions/October2026/RyDdNYsfQC2vrNAh6wap.png,,right,80,3505,Google Effect Control,7852
+P10,LOGIC,Logic1,4,Correct,,3843,3511,Google Effect Control,12258
+P10,CRT,CRT4,Second,Correct,,2488,3511,Google Effect Control,14853
+P10,LOGIC,Logic2,200,Correct,,4266,3511,Google Effect Control,19226
+P10,CRT,CRT3,None,Correct,,2499,3511,Google Effect Control,21832
+P10,TRIVIA,Trivia2,Rh-null,Correct,,2897,3511,Google Effect Control,24836
+P10,CRT,CRT1,8,Correct,,13557,3511,Google Effect Control,38497
+P10,TRIVIA,Trivia4,The Sargasso Sea,Correct,,2267,3511,Google Effect Control,40868
+P10,CRT,CRT2,Emily,Correct,,2333,3511,Google Effect Control,43306
+P10,TRIVIA,Trivia1,I don't know,I don't know,,5760,3511,Google Effect Control,49170
+P10,TRIVIA,Trivia3,Hydrogen,Wrong,,5321,3511,Google Effect Control,54597
+P10,,Age,18-24,,,1491,3512,Google Effect Control,57144
+P10,,Gender,Female,,,1014,3512,Google Effect Control,58263
+P10,,Education,Bachelor’s Degree (or equivalent),,,1655,3512,Google Effect Control,60024
+P10,,EnglishFluency,Native / Bilingual proficiency,,,1756,3512,Google Effect Control,61885
+P10,,AIFrequency,Rarely or Never,,,1642,3512,Google Effect Control,63632
+P11,,8329,questions/October2026/V5qgkPL9u3kaYLn28eWY.png,,left,1790,3508,Neutral Condition,11486
+P11,,8330,questions/October2026/9WgKU32jpRPbzAoHvi6T.png,,right,2527,3508,Neutral Condition,14119
+P11,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,5465,3508,Neutral Condition,19691
+P11,,8332,questions/October2026/rS4mnk3E1HSudhUTPlwf.png,,right,1083,3508,Neutral Condition,20881
+P11,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,971,3508,Neutral Condition,21958
+P11,CRT,CRT1,7,Wrong,,6305,3511,Neutral Condition,30527
+P11,TRIVIA,Trivia1,Leo Tolstoy,Wrong,,11053,3511,Neutral Condition,41692
+P11,TRIVIA,Trivia3,I don't know,I don't know,,8854,3511,Neutral Condition,50653
+P11,CRT,CRT2,June,Wrong,,11352,3511,Neutral Condition,62114
+P11,LOGIC,Logic1,I don't know,I don't know,,27351,3511,Neutral Condition,89576
+P11,TRIVIA,Trivia4,I don't know,I don't know,,6422,3511,Neutral Condition,96109
+P11,CRT,CRT3,I don't know,I don't know,,21624,3511,Neutral Condition,117843
+P11,TRIVIA,Trivia2,I don't know,I don't know,,23735,3511,Neutral Condition,141687
+P11,LOGIC,Logic2,200,Correct,,112424,3511,Neutral Condition,254226
+P11,CRT,CRT4,Second,Correct,,9445,3511,Neutral Condition,263781
+P11,,Age,18-24,,,13652,3512,Neutral Condition,279019
+P11,,Gender,Male,,,1476,3512,Neutral Condition,280605
+P11,,Education,Bachelor’s Degree (or equivalent),,,3411,3512,Neutral Condition,284127
+P11,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,10603,3512,Neutral Condition,294839
+P11,,AIFrequency,Daily,,,12607,3512,Neutral Condition,307557
+P12,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,3851,3507,AI Brand Priming,31672
+P12,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,2080,3507,AI Brand Priming,33856
+P12,,8326,questions/October2026/yzSCxObXcPoHJBFDFjMS.png,,right,2902,3507,AI Brand Priming,36860
+P12,,8327,questions/October2026/sp4c6xgcn3EzxqUxyhhh.png,,right,1777,3507,AI Brand Priming,38741
+P12,,8328,questions/October2026/xMU1JJC2Rj6nZOoVbM5O.png,,right,2547,3507,AI Brand Priming,41391
+P12,TRIVIA,Trivia4,The Sargasso Sea,Correct,,30191,3511,AI Brand Priming,84096
+P12,LOGIC,Logic1,11,Wrong,,115167,3511,AI Brand Priming,199369
+P12,TRIVIA,Trivia1,I don't know,I don't know,,8325,3511,AI Brand Priming,207798
+P12,CRT,CRT2,Emily,Correct,,6128,3511,AI Brand Priming,214029
+P12,LOGIC,Logic2,200,Correct,,17278,3511,AI Brand Priming,231411
+P12,CRT,CRT3,27,Wrong,,15597,3511,AI Brand Priming,247111
+P12,TRIVIA,Trivia3,Lithium,Wrong,,6087,3511,AI Brand Priming,253302
+P12,CRT,CRT1,7,Wrong,,11586,3511,AI Brand Priming,264992
+P12,TRIVIA,Trivia2,I don't know,I don't know,,5560,3511,AI Brand Priming,270656
+P12,CRT,CRT4,Second,Correct,,7134,3511,AI Brand Priming,277894
+P12,,Age,18-24,,,2202,3512,AI Brand Priming,281461
+P12,,Gender,Female,,,1551,3512,AI Brand Priming,283116
+P12,,Education,Bachelor’s Degree (or equivalent),,,12827,3512,AI Brand Priming,296046
+P12,,EnglishFluency,Intermediate proficiency (B1-B2),,,11575,3512,AI Brand Priming,307725
+P12,,AIFrequency,Daily,,,5818,3512,AI Brand Priming,313647
+P13,,8324,questions/October2026/U7SjVrGTO4LcreMzIoZ3.png,,right,1402,3507,AI Brand Priming,21064
+P13,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,1372,3507,AI Brand Priming,22543
+P13,,8326,questions/October2026/yzSCxObXcPoHJBFDFjMS.png,,right,1280,3507,AI Brand Priming,23927
+P13,,8327,questions/October2026/JSYhyS8qqOJdHFVNfqvB.png,,left,2398,3507,AI Brand Priming,26429
+P13,,8328,questions/October2026/xMU1JJC2Rj6nZOoVbM5O.png,,right,1048,3507,AI Brand Priming,27582
+P13,CRT,CRT4,Second,Correct,,3781,3511,AI Brand Priming,41543
+P13,LOGIC,Logic1,11,Wrong,,12616,3511,AI Brand Priming,54276
+P13,CRT,CRT1,7,Wrong,,16632,3511,AI Brand Priming,71044
+P13,TRIVIA,Trivia4,I don't know,I don't know,,15173,3511,AI Brand Priming,86325
+P13,TRIVIA,Trivia2,Rh-null,Correct,,7123,3511,AI Brand Priming,93560
+P13,TRIVIA,Trivia1,I don't know,I don't know,,4614,3511,AI Brand Priming,98304
+P13,CRT,CRT2,Emily,Correct,,8512,3511,AI Brand Priming,106923
+P13,LOGIC,Logic2,200,Correct,,19410,3511,AI Brand Priming,126442
+P13,TRIVIA,Trivia3,I don't know,I don't know,,8623,3511,AI Brand Priming,135180
+P13,CRT,CRT3,None,Correct,,14621,3511,AI Brand Priming,149910
+P13,,Age,18-24,,,3196,3512,AI Brand Priming,154993
+P13,,Gender,Male,,,1423,3512,AI Brand Priming,156525
+P13,,Education,Master’s Degree (or equivalent),,,12964,3512,AI Brand Priming,169598
+P13,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,3459,3512,AI Brand Priming,173165
+P13,,AIFrequency,A few times a week,,,7675,3512,AI Brand Priming,180949
+P14,,8314,questions/October2026/T3VOcActeh5augvy0I4N.png,,right,4740,3505,Google Effect Control,10455
+P14,,8315,questions/October2026/SCDiHb0HO7lS0X0sdZCq.png,,right,3386,3505,Google Effect Control,13948
+P14,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,2501,3505,Google Effect Control,16553
+P14,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,1996,3505,Google Effect Control,18655
+P14,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1871,3505,Google Effect Control,20633
+P14,TRIVIA,Trivia1,I don't know,I don't know,,6581,3511,Google Effect Control,42605
+P14,CRT,CRT1,8,Correct,,15856,3511,Google Effect Control,58568
+P14,TRIVIA,Trivia2,Rh-null,Correct,,21451,3511,Google Effect Control,80124
+P14,CRT,CRT4,Second,Correct,,28116,3511,Google Effect Control,108347
+P14,TRIVIA,Trivia3,I don't know,I don't know,,13404,3511,Google Effect Control,121857
+P14,CRT,CRT3,I don't know,I don't know,,7658,3511,Google Effect Control,129621
+P14,LOGIC,Logic1,4,Correct,,43732,3511,Google Effect Control,173459
+P14,TRIVIA,Trivia4,I don't know,I don't know,,6603,3511,Google Effect Control,180169
+P14,CRT,CRT2,Emily,Correct,,9807,3511,Google Effect Control,190083
+P14,LOGIC,Logic2,200,Correct,,17213,3511,Google Effect Control,207407
+P14,,Age,25-34,,,3150,3512,Google Effect Control,212026
+P14,,Gender,Male,,,2414,3512,Google Effect Control,214547
+P14,,Education,Prefer not to say,,,4826,3512,Google Effect Control,219481
+P14,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,8430,3512,Google Effect Control,228017
+P14,,AIFrequency,Rarely or Never,,,13821,3512,Google Effect Control,241945
+P15,,8329,questions/October2026/pqGjxovCOVrsTzSkKlaB.png,,right,2677,3508,Neutral Condition,9610
+P15,,8330,questions/October2026/9WgKU32jpRPbzAoHvi6T.png,,right,1711,3508,Neutral Condition,11426
+P15,,8331,questions/October2026/oCxvkKMmiFqm82oLGn2A.png,,right,1328,3508,Neutral Condition,12858
+P15,,8332,questions/October2026/Tp3ZSG5KbMoJzfd6Ass9.png,,left,4281,3508,Neutral Condition,17243
+P15,,8333,questions/October2026/TlPH5PMBTF7uMkSAGheo.png,,right,2627,3508,Neutral Condition,19975
+P15,CRT,CRT1,7,Wrong,,10841,3511,Neutral Condition,35462
+P15,CRT,CRT2,Emily,Correct,,75878,3511,Neutral Condition,111445
+P15,TRIVIA,Trivia4,I don't know,I don't know,,7777,3511,Neutral Condition,119328
+P15,LOGIC,Logic2,200,Correct,,33810,3511,Neutral Condition,153245
+P15,TRIVIA,Trivia1,Mark Twain,Wrong,,6161,3511,Neutral Condition,159511
+P15,CRT,CRT4,Second,Correct,,4211,3511,Neutral Condition,163829
+P15,CRT,CRT3,27,Wrong,,16449,3511,Neutral Condition,180383
+P15,TRIVIA,Trivia3,I don't know,I don't know,,7879,3511,Neutral Condition,188368
+P15,LOGIC,Logic1,4,Correct,,22915,3511,Neutral Condition,211388
+P15,TRIVIA,Trivia2,O-negative,Wrong,,7993,3511,Neutral Condition,219487
+P15,,Age,18-24,,,2312,3512,Neutral Condition,223304
+P15,,Gender,Female,,,1778,3512,Neutral Condition,225187
+P15,,Education,Bachelor’s Degree (or equivalent),,,5778,3512,Neutral Condition,231071
+P15,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,3628,3512,Neutral Condition,234804
+P15,,AIFrequency,Rarely or Never,,,4279,3512,Neutral Condition,239187
+P16,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,1736,3507,AI Brand Priming,16326
+P16,,8325,questions/October2026/wIHmagRzqWxW0gNyMZOb.png,,right,2452,3507,AI Brand Priming,18881
+P16,,8326,questions/October2026/KZa0oC8WfXJEwpZVKJns.png,,left,1358,3507,AI Brand Priming,20344
+P16,,8327,questions/October2026/JSYhyS8qqOJdHFVNfqvB.png,,left,1614,3507,AI Brand Priming,22060
+P16,,8328,questions/October2026/797PuIpUTuScEHqYsgry.png,,left,2182,3507,AI Brand Priming,24346
+P16,TRIVIA,Trivia1,Émile Zola,Wrong,,13057,3511,AI Brand Priming,38795
+P16,CRT,CRT4,Second,Correct,,8517,3511,AI Brand Priming,47416
+P16,CRT,CRT3,27,Wrong,,34648,3511,AI Brand Priming,82169
+P16,TRIVIA,Trivia4,The Red Sea,Wrong,,20778,3511,AI Brand Priming,103050
+P16,TRIVIA,Trivia2,O-negative,Wrong,,41523,3511,AI Brand Priming,144678
+P16,CRT,CRT1,7,Wrong,,20076,3511,AI Brand Priming,164859
+P16,LOGIC,Logic2,200,Correct,,22697,3511,AI Brand Priming,187662
+P16,TRIVIA,Trivia3,Argon,Wrong,,31842,3511,AI Brand Priming,219611
+P16,LOGIC,Logic1,33,Wrong,,36938,3511,AI Brand Priming,256655
+P16,CRT,CRT2,Emily,Correct,,46855,3511,AI Brand Priming,303615
+P16,,Age,18-24,,,2789,3512,AI Brand Priming,307995
+P16,,Gender,Female,,,2186,3512,AI Brand Priming,310286
+P16,,Education,Bachelor’s Degree (or equivalent),,,3454,3512,AI Brand Priming,313848
+P16,,EnglishFluency,Beginner proficiency (A1-A2),,,7334,3512,AI Brand Priming,321286
+P16,,AIFrequency,A few times a week,,,9679,3512,AI Brand Priming,331071
+P17,,8319,questions/October2026/6yYtSazNHmMUbBzfT7pX.png,,right,1849,3506,AI Semantic Priming,3482
+P17,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,6396,3506,AI Semantic Priming,9983
+P17,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,2123,3506,AI Semantic Priming,12222
+P17,,8322,questions/October2026/oRCv7zM4tjvMs1mIb7zX.png,,right,3712,3506,AI Semantic Priming,16050
+P17,,8323,questions/October2026/ORkwgUxmT8jJLf1RtK3F.png,,left,4988,3506,AI Semantic Priming,21154
+P17,CRT,CRT1,15,Wrong,,73895,3511,AI Semantic Priming,96578
+P17,TRIVIA,Trivia3,I don't know,I don't know,,29495,3511,AI Semantic Priming,126176
+P17,TRIVIA,Trivia4,The Sargasso Sea,Correct,,18841,3511,AI Semantic Priming,145119
+P17,LOGIC,Logic1,4,Correct,,52209,3511,AI Semantic Priming,197429
+P17,CRT,CRT4,Second,Correct,,21165,3511,AI Semantic Priming,218697
+P17,TRIVIA,Trivia1,Leo Tolstoy,Wrong,,60179,3511,AI Semantic Priming,278979
+P17,CRT,CRT3,27,Wrong,,38549,3511,AI Semantic Priming,317630
+P17,TRIVIA,Trivia2,Rh-null,Correct,,28093,3511,AI Semantic Priming,345825
+P17,CRT,CRT2,Emily,Correct,,27900,3511,AI Semantic Priming,373828
+P17,LOGIC,Logic2,200,Correct,,63021,3511,AI Semantic Priming,436951
+P17,,Age,18-24,,,2818,3512,AI Semantic Priming,443211
+P17,,Gender,Male,,,3619,3512,AI Semantic Priming,446932
+P17,,Education,Bachelor’s Degree (or equivalent),,,13641,3512,AI Semantic Priming,460674
+P17,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,8641,3512,AI Semantic Priming,469417
+P17,,AIFrequency,A few times a week,,,7489,3512,AI Semantic Priming,477007
+P18,,8319,questions/October2026/Vv9BhgJcj46uR1GBxUyU.png,,left,2465,3506,AI Semantic Priming,22629
+P18,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,1954,3506,AI Semantic Priming,24688
+P18,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,1265,3506,AI Semantic Priming,26058
+P18,,8322,questions/October2026/IKQ1kK4jgKyFbXSbaYZ1.png,,left,2975,3506,AI Semantic Priming,29138
+P18,,8323,questions/October2026/ORkwgUxmT8jJLf1RtK3F.png,,left,1695,3506,AI Semantic Priming,30937
+P18,CRT,CRT4,Second,Correct,,4145,3511,AI Semantic Priming,55375
+P18,LOGIC,Logic1,4,Correct,,28568,3511,AI Semantic Priming,84066
+P18,CRT,CRT2,Emily,Correct,,5274,3511,AI Semantic Priming,89444
+P18,TRIVIA,Trivia4,I don't know,I don't know,,7164,3511,AI Semantic Priming,96712
+P18,TRIVIA,Trivia1,I don't know,I don't know,,6502,3511,AI Semantic Priming,103319
+P18,CRT,CRT3,27,Wrong,,19694,3511,AI Semantic Priming,123119
+P18,TRIVIA,Trivia2,O-negative,Wrong,,9590,3511,AI Semantic Priming,132815
+P18,TRIVIA,Trivia3,I don't know,I don't know,,3661,3511,AI Semantic Priming,136582
+P18,LOGIC,Logic2,200,Correct,,35029,3511,AI Semantic Priming,171717
+P18,CRT,CRT1,8,Correct,,17455,3511,AI Semantic Priming,189278
+P18,,Age,18-24,,,2198,3512,AI Semantic Priming,192744
+P18,,Gender,Non-binary,,,1745,3512,AI Semantic Priming,194594
+P18,,Education,Bachelor’s Degree (or equivalent),,,5632,3512,AI Semantic Priming,200332
+P18,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,5794,3512,AI Semantic Priming,206231
+P18,,AIFrequency,A few times a month,,,4862,3512,AI Semantic Priming,211198
+P19,,8319,questions/October2026/Vv9BhgJcj46uR1GBxUyU.png,,left,2437,3506,AI Semantic Priming,47445
+P19,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,2576,3506,AI Semantic Priming,50125
+P19,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,1730,3506,AI Semantic Priming,51961
+P19,,8322,questions/October2026/IKQ1kK4jgKyFbXSbaYZ1.png,,left,1747,3506,AI Semantic Priming,53812
+P19,,8323,questions/October2026/ORkwgUxmT8jJLf1RtK3F.png,,left,2031,3506,AI Semantic Priming,55947
+P19,CRT,CRT3,27,Wrong,,13216,3511,AI Semantic Priming,85043
+P19,CRT,CRT4,Second,Correct,,9838,3511,AI Semantic Priming,94986
+P19,CRT,CRT1,8,Correct,,9973,3511,AI Semantic Priming,105063
+P19,LOGIC,Logic1,11,Wrong,,41178,3511,AI Semantic Priming,146346
+P19,TRIVIA,Trivia1,I don't know,I don't know,,6087,3511,AI Semantic Priming,152538
+P19,CRT,CRT2,Emily,Correct,,11562,3511,AI Semantic Priming,164203
+P19,TRIVIA,Trivia2,Rh-null,Correct,,11692,3511,AI Semantic Priming,176001
+P19,TRIVIA,Trivia3,I don't know,I don't know,,11876,3511,AI Semantic Priming,187982
+P19,LOGIC,Logic2,200,Correct,,29278,3511,AI Semantic Priming,217365
+P19,TRIVIA,Trivia4,I don't know,I don't know,,16432,3511,AI Semantic Priming,233901
+P19,,Age,18-24,,,4055,3512,AI Semantic Priming,239590
+P19,,Gender,Female,,,1716,3512,AI Semantic Priming,241409
+P19,,Education,Bachelor’s Degree (or equivalent),,,7155,3512,AI Semantic Priming,248668
+P19,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,3768,3512,AI Semantic Priming,252540
+P19,,AIFrequency,A few times a week,,,5603,3512,AI Semantic Priming,258247
+P20,,8319,questions/October2026/Vv9BhgJcj46uR1GBxUyU.png,,left,4010,3506,AI Semantic Priming,14894
+P20,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,3549,3506,AI Semantic Priming,18552
+P20,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,1562,3506,AI Semantic Priming,20217
+P20,,8322,questions/October2026/oRCv7zM4tjvMs1mIb7zX.png,,right,4448,3506,AI Semantic Priming,24769
+P20,,8323,questions/October2026/rxc8tdBpNBJF73PEehNF.png,,right,11703,3506,AI Semantic Priming,36576
+P20,CRT,CRT2,Emily,Correct,,10357,3511,AI Semantic Priming,100021
+P20,CRT,CRT1,8,Correct,,39500,3511,AI Semantic Priming,139631
+P20,LOGIC,Logic2,I don't know,I don't know,,51771,3511,AI Semantic Priming,191507
+P20,LOGIC,Logic1,I don't know,I don't know,,80742,3511,AI Semantic Priming,272354
+P20,CRT,CRT4,Second,Correct,,12265,3511,AI Semantic Priming,284732
+P20,TRIVIA,Trivia2,Rh-null,Correct,,16187,3511,AI Semantic Priming,301023
+P20,TRIVIA,Trivia4,I don't know,I don't know,,7439,3511,AI Semantic Priming,308566
+P20,CRT,CRT3,I don't know,I don't know,,7348,3511,AI Semantic Priming,316021
+P20,TRIVIA,Trivia1,Sully Prudhomme,Correct,,85975,3511,AI Semantic Priming,402100
+P20,TRIVIA,Trivia3,Helium,Correct,,43431,3511,AI Semantic Priming,445637
+P20,,Age,18-24,,,3580,3512,AI Semantic Priming,450618
+P20,,Gender,Female,,,14840,3512,AI Semantic Priming,465563
+P20,,Education,Bachelor’s Degree (or equivalent),,,4394,3512,AI Semantic Priming,470061
+P20,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,5412,3512,AI Semantic Priming,475578
+P20,,AIFrequency,A few times a month,,,11749,3512,AI Semantic Priming,487430
+P21,,8319,questions/October2026/Vv9BhgJcj46uR1GBxUyU.png,,left,1377,3506,AI Semantic Priming,4748
+P21,,8320,questions/October2026/5w3uI9YuohoC9tCHfZsj.png,,left,3414,3506,AI Semantic Priming,8265
+P21,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,1325,3506,AI Semantic Priming,9695
+P21,,8322,questions/October2026/IKQ1kK4jgKyFbXSbaYZ1.png,,left,5960,3506,AI Semantic Priming,15758
+P21,,8323,questions/October2026/rxc8tdBpNBJF73PEehNF.png,,right,2402,3506,AI Semantic Priming,18266
+P21,TRIVIA,Trivia1,I don't know,I don't know,,6273,3511,AI Semantic Priming,47317
+P21,CRT,CRT3,27,Wrong,,16476,3511,AI Semantic Priming,63899
+P21,CRT,CRT1,7,Wrong,,15205,3511,AI Semantic Priming,79215
+P21,CRT,CRT4,First,Wrong,,11538,3511,AI Semantic Priming,90864
+P21,LOGIC,Logic1,4,Correct,,112975,3511,AI Semantic Priming,203950
+P21,TRIVIA,Trivia2,I don't know,I don't know,,9735,3511,AI Semantic Priming,213790
+P21,TRIVIA,Trivia4,I don't know,I don't know,,6899,3511,AI Semantic Priming,220798
+P21,TRIVIA,Trivia3,I don't know,I don't know,,7367,3511,AI Semantic Priming,228268
+P21,CRT,CRT2,I don't know,I don't know,,9704,3511,AI Semantic Priming,238080
+P21,LOGIC,Logic2,I don't know,I don't know,,60984,3511,AI Semantic Priming,299174
+P21,,Age,25-34,,,12455,3512,AI Semantic Priming,313206
+P21,,Gender,Male,,,3333,3512,AI Semantic Priming,316646
+P21,,Education,Bachelor’s Degree (or equivalent),,,5247,3512,AI Semantic Priming,322003
+P21,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,6952,3512,AI Semantic Priming,329062
+P21,,AIFrequency,Daily,,,7122,3512,AI Semantic Priming,336290
+P22,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,691,3507,AI Brand Priming,2387
+P22,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,214,3507,AI Brand Priming,2705
+P22,,8326,questions/October2026/KZa0oC8WfXJEwpZVKJns.png,,left,78,3507,AI Brand Priming,2886
+P22,,8327,questions/October2026/JSYhyS8qqOJdHFVNfqvB.png,,left,64,3507,AI Brand Priming,3052
+P22,,8328,questions/October2026/797PuIpUTuScEHqYsgry.png,,left,681,3507,AI Brand Priming,3838
+P22,TRIVIA,Trivia4,The Sargasso Sea,Correct,,5960,3511,AI Brand Priming,10691
+P22,CRT,CRT1,8,Correct,,1493,3511,AI Brand Priming,12289
+P22,TRIVIA,Trivia1,Sully Prudhomme,Correct,,1563,3511,AI Brand Priming,13955
+P22,CRT,CRT4,Second,Correct,,1629,3511,AI Brand Priming,15688
+P22,LOGIC,Logic2,200,Correct,,4007,3511,AI Brand Priming,19801
+P22,TRIVIA,Trivia2,AB-negative,Wrong,,1476,3511,AI Brand Priming,21384
+P22,LOGIC,Logic1,4,Correct,,3211,3511,AI Brand Priming,24700
+P22,CRT,CRT3,None,Correct,,1713,3511,AI Brand Priming,26518
+P22,CRT,CRT2,Emily,Correct,,1727,3511,AI Brand Priming,28350
+P22,TRIVIA,Trivia3,Helium,Correct,,2044,3511,AI Brand Priming,30498
+P22,,Age,18-24,,,1216,3512,AI Brand Priming,32731
+P22,,Gender,Male,,,945,3512,AI Brand Priming,33781
+P22,,Education,Bachelor’s Degree (or equivalent),,,1709,3512,AI Brand Priming,35596
+P22,,EnglishFluency,Native / Bilingual proficiency,,,1397,3512,AI Brand Priming,37098
+P22,,AIFrequency,A few times a week,,,2576,3512,AI Brand Priming,39779
+P23,,8314,questions/October2026/3eJA6Eh7zvMJfpywxXfm.png,,left,1729,3505,Google Effect Control,28182
+P23,,8315,questions/October2026/SCDiHb0HO7lS0X0sdZCq.png,,right,1945,3505,Google Effect Control,30231
+P23,,8316,questions/October2026/Fq7QXyHB6yxRcbG7l5xl.png,,left,1697,3505,Google Effect Control,32033
+P23,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,995,3505,Google Effect Control,33133
+P23,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,844,3505,Google Effect Control,34080
+P23,CRT,CRT1,7,Wrong,,5268,3511,Google Effect Control,43379
+P23,LOGIC,Logic1,4,Correct,,60446,3511,Google Effect Control,103930
+P23,CRT,CRT2,Emily,Correct,,7551,3511,Google Effect Control,111593
+P23,TRIVIA,Trivia3,Hydrogen,Wrong,,13145,3511,Google Effect Control,124841
+P23,CRT,CRT4,Second,Correct,,18656,3511,Google Effect Control,143602
+P23,CRT,CRT3,27,Wrong,,9011,3511,Google Effect Control,152717
+P23,TRIVIA,Trivia2,Bombay phenotype,Wrong,,23915,3511,Google Effect Control,176736
+P23,LOGIC,Logic2,200,Correct,,30023,3511,Google Effect Control,206868
+P23,TRIVIA,Trivia1,I don't know,I don't know,,4412,3511,Google Effect Control,211383
+P23,TRIVIA,Trivia4,I don't know,I don't know,,5230,3511,Google Effect Control,216718
+P23,,Age,18-24,,,1580,3512,Google Effect Control,220967
+P23,,Gender,Male,,,5400,3512,Google Effect Control,226472
+P23,,Education,Bachelor’s Degree (or equivalent),,,4582,3512,Google Effect Control,231158
+P23,,EnglishFluency,Intermediate proficiency (B1-B2),,,8610,3512,Google Effect Control,239873
+P23,,AIFrequency,Daily,,,3928,3512,Google Effect Control,243906
+P24,,8314,questions/October2026/3eJA6Eh7zvMJfpywxXfm.png,,left,3003,3505,Google Effect Control,33926
+P24,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,2721,3505,Google Effect Control,36752
+P24,,8316,questions/October2026/Fq7QXyHB6yxRcbG7l5xl.png,,left,2034,3505,Google Effect Control,38890
+P24,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,1240,3505,Google Effect Control,40234
+P24,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1118,3505,Google Effect Control,41456
+P24,CRT,CRT4,Second,Correct,,9040,3511,Google Effect Control,60956
+P24,TRIVIA,Trivia1,I don't know,I don't know,,5705,3511,Google Effect Control,66766
+P24,CRT,CRT2,Emily,Correct,,4450,3511,Google Effect Control,71321
+P24,LOGIC,Logic1,3,Wrong,,46274,3511,Google Effect Control,117701
+P24,TRIVIA,Trivia3,I don't know,I don't know,,5691,3511,Google Effect Control,123497
+P24,TRIVIA,Trivia4,I don't know,I don't know,,48655,3511,Google Effect Control,172256
+P24,CRT,CRT1,7,Wrong,,11065,3511,Google Effect Control,183428
+P24,LOGIC,Logic2,200,Correct,,12792,3511,Google Effect Control,196324
+P24,CRT,CRT3,27,Wrong,,4376,3511,Google Effect Control,200803
+P24,TRIVIA,Trivia2,Rh-null,Correct,,5712,3511,Google Effect Control,206620
+P24,,Age,18-24,,,1951,3512,Google Effect Control,210825
+P24,,Gender,Male,,,1365,3512,Google Effect Control,212293
+P24,,Education,Bachelor’s Degree (or equivalent),,,4089,3512,Google Effect Control,216491
+P24,,EnglishFluency,Native / Bilingual proficiency,,,5100,3512,Google Effect Control,221695
+P24,,AIFrequency,Daily,,,3510,3512,Google Effect Control,225312
+P25,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,2561,3507,AI Brand Priming,54065
+P25,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,5205,3507,AI Brand Priming,59375
+P25,,8326,questions/October2026/yzSCxObXcPoHJBFDFjMS.png,,right,1867,3507,AI Brand Priming,61346
+P25,,8327,questions/October2026/sp4c6xgcn3EzxqUxyhhh.png,,right,2040,3507,AI Brand Priming,63492
+P25,,8328,questions/October2026/xMU1JJC2Rj6nZOoVbM5O.png,,right,3475,3507,AI Brand Priming,67072
+P25,CRT,CRT4,First,Wrong,,11321,3511,AI Brand Priming,85937
+P25,CRT,CRT1,7,Wrong,,19056,3511,AI Brand Priming,105100
+P25,TRIVIA,Trivia1,I don't know,I don't know,,6389,3511,AI Brand Priming,111597
+P25,CRT,CRT2,June,Wrong,,15864,3511,AI Brand Priming,127567
+P25,LOGIC,Logic2,200,Correct,,19328,3511,AI Brand Priming,147003
+P25,TRIVIA,Trivia4,The Red Sea,Wrong,,9512,3511,AI Brand Priming,156619
+P25,LOGIC,Logic1,3,Wrong,,17447,3511,AI Brand Priming,174173
+P25,TRIVIA,Trivia2,AB-negative,Wrong,,8807,3511,AI Brand Priming,183086
+P25,TRIVIA,Trivia3,I don't know,I don't know,,3910,3511,AI Brand Priming,187101
+P25,CRT,CRT3,I don't know,I don't know,,3821,3511,AI Brand Priming,191029
+P25,,Age,18-24,,,2222,3512,AI Brand Priming,194676
+P25,,Gender,Female,,,1590,3512,AI Brand Priming,196372
+P25,,Education,Bachelor’s Degree (or equivalent),,,8345,3512,AI Brand Priming,204822
+P25,,EnglishFluency,Intermediate proficiency (B1-B2),,,19086,3512,AI Brand Priming,224013
+P25,,AIFrequency,Daily,,,5841,3512,AI Brand Priming,229960
+P26,,8314,questions/October2026/T3VOcActeh5augvy0I4N.png,,right,86,3505,Google Effect Control,8001
+P26,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,2406,3505,Google Effect Control,10512
+P26,,8316,questions/October2026/Fq7QXyHB6yxRcbG7l5xl.png,,left,2240,3505,Google Effect Control,12856
+P26,,8317,questions/October2026/c8qiznPY6s5mPjWBnAPk.png,,left,1559,3505,Google Effect Control,14519
+P26,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1183,3505,Google Effect Control,15807
+P26,CRT,CRT1,8,Correct,,12800,3511,Google Effect Control,29712
+P26,CRT,CRT3,27,Wrong,,26004,3511,Google Effect Control,55825
+P26,CRT,CRT4,Second,Correct,,5294,3511,Google Effect Control,61227
+P26,CRT,CRT2,June,Wrong,,16672,3511,Google Effect Control,78007
+P26,LOGIC,Logic1,33,Wrong,,38567,3511,Google Effect Control,116681
+P26,TRIVIA,Trivia4,I don't know,I don't know,,6676,3511,Google Effect Control,123463
+P26,TRIVIA,Trivia3,Helium,Correct,,15381,3511,Google Effect Control,138951
+P26,TRIVIA,Trivia1,Leo Tolstoy,Wrong,,8684,3511,Google Effect Control,147741
+P26,LOGIC,Logic2,200,Correct,,109104,3511,Google Effect Control,256952
+P26,TRIVIA,Trivia2,O-negative,Wrong,,3989,3511,Google Effect Control,261047
+P26,,Age,25-34,,,2320,3512,Google Effect Control,264620
+P26,,Gender,Male,,,1593,3512,Google Effect Control,266319
+P26,,Education,Bachelor’s Degree (or equivalent),,,2689,3512,Google Effect Control,269117
+P26,,EnglishFluency,Native / Bilingual proficiency,,,2640,3512,Google Effect Control,271863
+P26,,AIFrequency,A few times a week,,,3481,3512,Google Effect Control,275450
+P27,,8314,questions/October2026/3eJA6Eh7zvMJfpywxXfm.png,,left,2482,3505,Google Effect Control,16755
+P27,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,1928,3505,Google Effect Control,18788
+P27,,8316,questions/October2026/Fq7QXyHB6yxRcbG7l5xl.png,,left,4038,3505,Google Effect Control,22930
+P27,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,1749,3505,Google Effect Control,24782
+P27,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1256,3505,Google Effect Control,26142
+P27,TRIVIA,Trivia2,Bombay phenotype,Wrong,,10464,3511,Google Effect Control,40213
+P27,CRT,CRT4,Second,Correct,,3982,3511,Google Effect Control,44302
+P27,TRIVIA,Trivia3,Hydrogen,Wrong,,12858,3511,Google Effect Control,57266
+P27,LOGIC,Logic1,33,Wrong,,50164,3511,Google Effect Control,107538
+P27,CRT,CRT3,27,Wrong,,21897,3511,Google Effect Control,129547
+P27,CRT,CRT2,Emily,Correct,,13016,3511,Google Effect Control,142669
+P27,TRIVIA,Trivia1,I don't know,I don't know,,6888,3511,Google Effect Control,149663
+P27,TRIVIA,Trivia4,I don't know,I don't know,,10780,3511,Google Effect Control,160548
+P27,LOGIC,Logic2,100,Wrong,,22463,3511,Google Effect Control,183115
+P27,CRT,CRT1,8,Correct,,14472,3511,Google Effect Control,197692
+P27,,Age,25-34,,,3673,3512,Google Effect Control,202817
+P27,,Gender,Female,,,1655,3512,Google Effect Control,204576
+P27,,Education,Master’s Degree (or equivalent),,,5407,3512,Google Effect Control,210089
+P27,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,4301,3512,Google Effect Control,214494
+P27,,AIFrequency,Daily,,,4706,3512,Google Effect Control,219305
+P28,,8329,questions/October2026/V5qgkPL9u3kaYLn28eWY.png,,left,1368,3508,Neutral Condition,8043
+P28,,8330,questions/October2026/wfXbvCnWE66psxN9ZNVl.png,,left,4757,3508,Neutral Condition,12904
+P28,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,1327,3508,Neutral Condition,14334
+P28,,8332,questions/October2026/rS4mnk3E1HSudhUTPlwf.png,,right,1208,3508,Neutral Condition,15646
+P28,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,2636,3508,Neutral Condition,18387
+P28,CRT,CRT1,8,Correct,,8990,3511,Neutral Condition,31727
+P28,TRIVIA,Trivia1,Leo Tolstoy,Wrong,,12520,3511,Neutral Condition,44357
+P28,LOGIC,Logic1,4,Correct,,38210,3511,Neutral Condition,82673
+P28,TRIVIA,Trivia2,I don't know,I don't know,,14985,3511,Neutral Condition,97765
+P28,TRIVIA,Trivia3,I don't know,I don't know,,11879,3511,Neutral Condition,109749
+P28,LOGIC,Logic2,200,Correct,,20430,3511,Neutral Condition,130286
+P28,CRT,CRT2,Emily,Correct,,5916,3511,Neutral Condition,136307
+P28,TRIVIA,Trivia4,I don't know,I don't know,,4768,3511,Neutral Condition,141181
+P28,CRT,CRT3,3,Wrong,,13845,3511,Neutral Condition,155132
+P28,CRT,CRT4,Second,Correct,,5252,3511,Neutral Condition,160489
+P28,,Age,25-34,,,2786,3512,Neutral Condition,165362
+P28,,Gender,Non-binary,,,5029,3512,Neutral Condition,170498
+P28,,Education,Bachelor’s Degree (or equivalent),,,2609,3512,Neutral Condition,173212
+P28,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,5554,3512,Neutral Condition,178870
+P28,,AIFrequency,Daily,,,6382,3512,Neutral Condition,185357
+P29,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,1744,3507,AI Brand Priming,6604
+P29,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,3536,3507,AI Brand Priming,10244
+P29,,8326,questions/October2026/KZa0oC8WfXJEwpZVKJns.png,,left,1483,3507,AI Brand Priming,11832
+P29,,8327,questions/October2026/JSYhyS8qqOJdHFVNfqvB.png,,left,2509,3507,AI Brand Priming,14444
+P29,,8328,questions/October2026/797PuIpUTuScEHqYsgry.png,,left,1679,3507,AI Brand Priming,16227
+P29,TRIVIA,Trivia3,Hydrogen,Wrong,,9942,3511,AI Brand Priming,27627
+P29,CRT,CRT3,9,Wrong,,10382,3511,AI Brand Priming,38114
+P29,LOGIC,Logic2,200,Correct,,19714,3511,AI Brand Priming,57933
+P29,TRIVIA,Trivia1,Mark Twain,Wrong,,4228,3511,AI Brand Priming,62266
+P29,TRIVIA,Trivia4,The Red Sea,Wrong,,10875,3511,AI Brand Priming,73246
+P29,CRT,CRT1,8,Correct,,8744,3511,AI Brand Priming,82094
+P29,TRIVIA,Trivia2,AB-negative,Wrong,,11040,3511,AI Brand Priming,93238
+P29,LOGIC,Logic1,4,Correct,,15604,3511,AI Brand Priming,108947
+P29,CRT,CRT4,First,Wrong,,6767,3511,AI Brand Priming,115818
+P29,CRT,CRT2,Emily,Correct,,6181,3511,AI Brand Priming,122105
+P29,,Age,18-24,,,1634,3512,AI Brand Priming,124959
+P29,,Gender,Male,,,1094,3512,AI Brand Priming,126156
+P29,,Education,Bachelor’s Degree (or equivalent),,,3990,3512,AI Brand Priming,130251
+P29,,EnglishFluency,Native / Bilingual proficiency,,,4346,3512,AI Brand Priming,134701
+P29,,AIFrequency,A few times a week,,,3394,3512,AI Brand Priming,138201
+P30,,8329,questions/October2026/V5qgkPL9u3kaYLn28eWY.png,,left,1048,3508,Neutral Condition,29834
+P30,,8330,questions/October2026/wfXbvCnWE66psxN9ZNVl.png,,left,1199,3508,Neutral Condition,31136
+P30,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,1087,3508,Neutral Condition,32328
+P30,,8332,questions/October2026/rS4mnk3E1HSudhUTPlwf.png,,right,1679,3508,Neutral Condition,34111
+P30,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,828,3508,Neutral Condition,35045
+P30,LOGIC,Logic1,4,Correct,,16614,3511,Neutral Condition,68314
+P30,TRIVIA,Trivia3,Helium,Correct,,5521,3511,Neutral Condition,73940
+P30,CRT,CRT1,7,Wrong,,5561,3511,Neutral Condition,79605
+P30,CRT,CRT3,9,Wrong,,7895,3511,Neutral Condition,87606
+P30,TRIVIA,Trivia2,I don't know,I don't know,,7831,3511,Neutral Condition,95542
+P30,CRT,CRT4,First,Wrong,,4031,3511,Neutral Condition,99677
+P30,TRIVIA,Trivia4,I don't know,I don't know,,11297,3511,Neutral Condition,111078
+P30,TRIVIA,Trivia1,Leo Tolstoy,Wrong,,4479,3511,Neutral Condition,115661
+P30,CRT,CRT2,Emily,Correct,,6147,3511,Neutral Condition,121912
+P30,LOGIC,Logic2,200,Correct,,10616,3511,Neutral Condition,132631
+P30,,Age,18-24,,,1832,3512,Neutral Condition,135848
+P30,,Gender,Female,,,1247,3512,Neutral Condition,137198
+P30,,Education,Bachelor’s Degree (or equivalent),,,3646,3512,Neutral Condition,140949
+P30,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,3731,3512,Neutral Condition,144783
+P30,,AIFrequency,Daily,,,5279,3512,Neutral Condition,150167
+P31,,8319,questions/October2026/Vv9BhgJcj46uR1GBxUyU.png,,left,2476,3506,AI Semantic Priming,9777
+P31,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,3184,3506,AI Semantic Priming,13066
+P31,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,2246,3506,AI Semantic Priming,15417
+P31,,8322,questions/October2026/IKQ1kK4jgKyFbXSbaYZ1.png,,left,1978,3506,AI Semantic Priming,17499
+P31,,8323,questions/October2026/ORkwgUxmT8jJLf1RtK3F.png,,left,2414,3506,AI Semantic Priming,20018
+P31,LOGIC,Logic2,200,Correct,,10473,3511,AI Semantic Priming,35598
+P31,TRIVIA,Trivia4,I don't know,I don't know,,18609,3511,AI Semantic Priming,54312
+P31,TRIVIA,Trivia3,Helium,Correct,,10864,3511,AI Semantic Priming,65281
+P31,TRIVIA,Trivia1,I don't know,I don't know,,8212,3511,AI Semantic Priming,73597
+P31,CRT,CRT1,8,Correct,,11982,3511,AI Semantic Priming,85684
+P31,CRT,CRT3,27,Wrong,,16483,3511,AI Semantic Priming,102272
+P31,CRT,CRT2,Emily,Correct,,4894,3511,AI Semantic Priming,107270
+P31,CRT,CRT4,Second,Correct,,4763,3511,AI Semantic Priming,112137
+P31,TRIVIA,Trivia2,O-negative,Wrong,,7196,3511,AI Semantic Priming,119439
+P31,LOGIC,Logic1,4,Correct,,23450,3511,AI Semantic Priming,142993
+P31,,Age,18-24,,,2167,3512,AI Semantic Priming,147576
+P31,,Gender,Female,,,1747,3512,AI Semantic Priming,149427
+P31,,Education,Bachelor’s Degree (or equivalent),,,5382,3512,AI Semantic Priming,154913
+P31,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,5411,3512,AI Semantic Priming,160429
+P31,,AIFrequency,Daily,,,3763,3512,AI Semantic Priming,164295
+P32,,8329,questions/October2026/pqGjxovCOVrsTzSkKlaB.png,,right,1344,3508,Neutral Condition,42483
+P32,,8330,questions/October2026/9WgKU32jpRPbzAoHvi6T.png,,right,1413,3508,Neutral Condition,44000
+P32,,8331,questions/October2026/8SXK1KYVfVWSfFS43Sai.png,,left,1145,3508,Neutral Condition,45250
+P32,,8332,questions/October2026/Tp3ZSG5KbMoJzfd6Ass9.png,,left,1464,3508,Neutral Condition,46818
+P32,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,1294,3508,Neutral Condition,48216
+P32,CRT,CRT2,Emily,Correct,,7090,3511,Neutral Condition,63715
+P32,TRIVIA,Trivia3,I don't know,I don't know,,8474,3511,Neutral Condition,72296
+P32,TRIVIA,Trivia2,I don't know,I don't know,,11328,3511,Neutral Condition,83730
+P32,CRT,CRT1,8,Correct,,18517,3511,Neutral Condition,102352
+P32,CRT,CRT4,Second,Correct,,6348,3511,Neutral Condition,108804
+P32,TRIVIA,Trivia1,I don't know,I don't know,,6280,3511,Neutral Condition,115189
+P32,CRT,CRT3,I don't know,I don't know,,11756,3511,Neutral Condition,127050
+P32,TRIVIA,Trivia4,I don't know,I don't know,,21617,3511,Neutral Condition,148772
+P32,LOGIC,Logic1,4,Correct,,54262,3511,Neutral Condition,203140
+P32,LOGIC,Logic2,200,Correct,,15895,3511,Neutral Condition,219142
+P32,,Age,18-24,,,1951,3512,Neutral Condition,224592
+P32,,Gender,Male,,,3031,3512,Neutral Condition,227728
+P32,,Education,Bachelor’s Degree (or equivalent),,,7919,3512,Neutral Condition,235751
+P32,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,6564,3512,Neutral Condition,242420
+P32,,AIFrequency,A few times a week,,,4629,3512,Neutral Condition,247154
+P33,,8319,questions/October2026/Vv9BhgJcj46uR1GBxUyU.png,,left,1546,3506,AI Semantic Priming,29963
+P33,,8320,questions/October2026/GvMvQUfGoSzfZvCyjOMP.png,,right,2527,3506,AI Semantic Priming,32594
+P33,,8321,questions/October2026/buX1YISiO9drWvCaQbCV.png,,left,1397,3506,AI Semantic Priming,34093
+P33,,8322,questions/October2026/oRCv7zM4tjvMs1mIb7zX.png,,right,2249,3506,AI Semantic Priming,36446
+P33,,8323,questions/October2026/ORkwgUxmT8jJLf1RtK3F.png,,left,2562,3506,AI Semantic Priming,39111
+P33,CRT,CRT3,27,Wrong,,15286,3511,AI Semantic Priming,68751
+P33,TRIVIA,Trivia1,I don't know,I don't know,,6254,3511,AI Semantic Priming,75112
+P33,LOGIC,Logic2,200,Correct,,13322,3511,AI Semantic Priming,88540
+P33,CRT,CRT1,7,Wrong,,7309,3511,AI Semantic Priming,95954
+P33,LOGIC,Logic1,33,Wrong,,9167,3511,AI Semantic Priming,105225
+P33,CRT,CRT4,First,Wrong,,4558,3511,AI Semantic Priming,109885
+P33,TRIVIA,Trivia4,I don't know,I don't know,,6961,3511,AI Semantic Priming,116950
+P33,CRT,CRT2,June,Wrong,,10509,3511,AI Semantic Priming,127561
+P33,TRIVIA,Trivia2,I don't know,I don't know,,8877,3511,AI Semantic Priming,136543
+P33,TRIVIA,Trivia3,I don't know,I don't know,,5726,3511,AI Semantic Priming,142372
+P33,,Age,18-24,,,2833,3512,AI Semantic Priming,148571
+P33,,Gender,Female,,,2029,3512,AI Semantic Priming,150703
+P33,,Education,Bachelor’s Degree (or equivalent),,,5827,3512,AI Semantic Priming,156635
+P33,,EnglishFluency,Intermediate proficiency (B1-B2),,,3330,3512,AI Semantic Priming,160069
+P33,,AIFrequency,A few times a week,,,4819,3512,AI Semantic Priming,164990
+P34,,8314,questions/October2026/3eJA6Eh7zvMJfpywxXfm.png,,left,34738,3505,Google Effect Control,83218
+P34,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,1549,3505,Google Effect Control,84870
+P34,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,945,3505,Google Effect Control,85921
+P34,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,749,3505,Google Effect Control,86773
+P34,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,926,3505,Google Effect Control,87803
+P34,CRT,CRT2,Emily,Correct,,4082,3511,Google Effect Control,93060
+P34,TRIVIA,Trivia2,O-negative,Wrong,,3215,3511,Google Effect Control,96381
+P34,TRIVIA,Trivia3,I don't know,I don't know,,6913,3511,Google Effect Control,103399
+P34,CRT,CRT3,27,Wrong,,6138,3511,Google Effect Control,109641
+P34,LOGIC,Logic1,4,Correct,,12728,3511,Google Effect Control,122473
+P34,TRIVIA,Trivia4,I don't know,I don't know,,3405,3511,Google Effect Control,125983
+P34,CRT,CRT4,Second,Correct,,3893,3511,Google Effect Control,129979
+P34,TRIVIA,Trivia1,I don't know,I don't know,,4587,3511,Google Effect Control,134670
+P34,CRT,CRT1,I don't know,I don't know,,9614,3511,Google Effect Control,144390
+P34,LOGIC,Logic2,200,Correct,,3981,3511,Google Effect Control,148486
+P34,,Age,18-24,,,1681,3512,Google Effect Control,154358
+P34,,Gender,Female,,,2773,3512,Google Effect Control,157236
+P34,,Education,Bachelor’s Degree (or equivalent),,,9315,3512,Google Effect Control,166655
+P34,,EnglishFluency,Beginner proficiency (A1-A2),,,8781,3512,Google Effect Control,175541
+P34,,AIFrequency,A few times a week,,,8269,3512,Google Effect Control,183913
+P35,,8324,questions/October2026/U7SjVrGTO4LcreMzIoZ3.png,,right,1566,3507,AI Brand Priming,35159
+P35,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,2668,3507,AI Brand Priming,37931
+P35,,8326,questions/October2026/yzSCxObXcPoHJBFDFjMS.png,,right,1310,3507,AI Brand Priming,39344
+P35,,8327,questions/October2026/sp4c6xgcn3EzxqUxyhhh.png,,right,1611,3507,AI Brand Priming,41059
+P35,,8328,questions/October2026/797PuIpUTuScEHqYsgry.png,,left,2525,3507,AI Brand Priming,43688
+P35,LOGIC,Logic1,4,Correct,,18379,3511,AI Brand Priming,80093
+P35,TRIVIA,Trivia1,I don't know,I don't know,,3947,3511,AI Brand Priming,84146
+P35,CRT,CRT1,7,Wrong,,16251,3511,AI Brand Priming,100503
+P35,CRT,CRT4,Second,Correct,,4952,3511,AI Brand Priming,105560
+P35,TRIVIA,Trivia3,I don't know,I don't know,,6102,3511,AI Brand Priming,111766
+P35,TRIVIA,Trivia4,I don't know,I don't know,,6136,3511,AI Brand Priming,118007
+P35,TRIVIA,Trivia2,AB-negative,Wrong,,7914,3511,AI Brand Priming,126025
+P35,CRT,CRT2,Emily,Correct,,6735,3511,AI Brand Priming,132865
+P35,CRT,CRT3,9,Wrong,,11527,3511,AI Brand Priming,144495
+P35,LOGIC,Logic2,300,Wrong,,29730,3511,AI Brand Priming,174332
+P35,,Age,18-24,,,2678,3512,AI Brand Priming,180137
+P35,,Gender,Female,,,1976,3512,AI Brand Priming,182216
+P35,,Education,Bachelor’s Degree (or equivalent),,,9116,3512,AI Brand Priming,191436
+P35,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,6551,3512,AI Brand Priming,198091
+P35,,AIFrequency,Daily,,,5787,3512,AI Brand Priming,203981
+P36,,8314,questions/October2026/3eJA6Eh7zvMJfpywxXfm.png,,left,2139,3505,Google Effect Control,39011
+P36,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,1796,3505,Google Effect Control,40913
+P36,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,2622,3505,Google Effect Control,43640
+P36,,8317,questions/October2026/c8qiznPY6s5mPjWBnAPk.png,,left,3228,3505,Google Effect Control,46974
+P36,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1596,3505,Google Effect Control,48676
+P36,TRIVIA,Trivia4,I don't know,I don't know,,16983,3511,Google Effect Control,75949
+P36,TRIVIA,Trivia2,O-negative,Wrong,,8462,3511,Google Effect Control,84521
+P36,TRIVIA,Trivia3,Argon,Wrong,,16413,3511,Google Effect Control,101041
+P36,CRT,CRT4,Second,Correct,,22552,3511,Google Effect Control,123700
+P36,CRT,CRT3,3,Wrong,,32196,3511,Google Effect Control,156003
+P36,TRIVIA,Trivia1,Mark Twain,Wrong,,18204,3511,Google Effect Control,174315
+P36,CRT,CRT2,Emily,Correct,,9186,3511,Google Effect Control,183607
+P36,CRT,CRT1,8,Correct,,20768,3511,Google Effect Control,204481
+P36,LOGIC,Logic2,200,Correct,,37417,3511,Google Effect Control,242006
+P36,LOGIC,Logic1,4,Correct,,52584,3511,Google Effect Control,294699
+P36,,Age,18-24,,,4307,3512,Google Effect Control,302223
+P36,,Gender,Female,,,1741,3512,Google Effect Control,304071
+P36,,Education,High School / Secondary Education,,,7528,3512,Google Effect Control,311705
+P36,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,3847,3512,Google Effect Control,315658
+P36,,AIFrequency,A few times a week,,,4688,3512,Google Effect Control,320451
+P37,,8324,questions/October2026/YmrqOKZscXZ9AvPyfwrT.png,,left,1864,3507,AI Brand Priming,14571
+P37,,8325,questions/October2026/XkAN0gEudTt1oP5Zf182.png,,left,1264,3507,AI Brand Priming,15940
+P37,,8326,questions/October2026/KZa0oC8WfXJEwpZVKJns.png,,left,2582,3507,AI Brand Priming,18628
+P37,,8327,questions/October2026/JSYhyS8qqOJdHFVNfqvB.png,,left,4397,3507,AI Brand Priming,23131
+P37,,8328,questions/October2026/xMU1JJC2Rj6nZOoVbM5O.png,,right,2780,3507,AI Brand Priming,26017
+P37,CRT,CRT3,27,Wrong,,50282,3511,AI Brand Priming,77812
+P37,TRIVIA,Trivia3,Helium,Correct,,11810,3511,AI Brand Priming,89729
+P37,TRIVIA,Trivia2,O-negative,Wrong,,5991,3511,AI Brand Priming,95827
+P37,CRT,CRT4,Second,Correct,,9055,3511,AI Brand Priming,104988
+P37,TRIVIA,Trivia4,I don't know,I don't know,,22918,3511,AI Brand Priming,128013
+P37,LOGIC,Logic2,300,Wrong,,20540,3511,AI Brand Priming,148661
+P37,LOGIC,Logic1,4,Correct,,116534,3511,AI Brand Priming,265303
+P37,TRIVIA,Trivia1,I don't know,I don't know,,6744,3511,AI Brand Priming,272160
+P37,CRT,CRT1,7,Wrong,,6492,3511,AI Brand Priming,278760
+P37,CRT,CRT2,I don't know,I don't know,,1456,3511,AI Brand Priming,280323
+P37,,Age,Prefer not to say,,,924,3512,AI Brand Priming,282093
+P37,,Gender,Prefer not to say,,,761,3512,AI Brand Priming,282960
+P37,,Education,Prefer not to say,,,777,3512,AI Brand Priming,283844
+P37,,EnglishFluency,Beginner proficiency (A1-A2),,,794,3512,AI Brand Priming,284744
+P37,,AIFrequency,Rarely or Never,,,729,3512,AI Brand Priming,285579
+P38,,8329,questions/October2026/V5qgkPL9u3kaYLn28eWY.png,,left,3618,3508,Neutral Condition,15265
+P38,,8330,questions/October2026/9WgKU32jpRPbzAoHvi6T.png,,right,5535,3508,Neutral Condition,20903
+P38,,8331,questions/October2026/oCxvkKMmiFqm82oLGn2A.png,,right,2497,3508,Neutral Condition,23505
+P38,,8332,questions/October2026/Tp3ZSG5KbMoJzfd6Ass9.png,,left,2675,3508,Neutral Condition,26285
+P38,,8333,questions/October2026/R49sG7WKIFtJcpL0W8Td.png,,left,2173,3508,Neutral Condition,28561
+P38,CRT,CRT3,None,Correct,,25593,3511,Neutral Condition,75210
+P38,LOGIC,Logic1,4,Correct,,9066,3511,Neutral Condition,84383
+P38,TRIVIA,Trivia3,Helium,Correct,,10238,3511,Neutral Condition,94728
+P38,CRT,CRT4,First,Wrong,,7169,3511,Neutral Condition,102004
+P38,CRT,CRT1,8,Correct,,30869,3511,Neutral Condition,132981
+P38,TRIVIA,Trivia1,I don't know,I don't know,,4576,3511,Neutral Condition,137665
+P38,TRIVIA,Trivia2,I don't know,I don't know,,15427,3511,Neutral Condition,153200
+P38,TRIVIA,Trivia4,The Sargasso Sea,Correct,,9799,3511,Neutral Condition,163108
+P38,LOGIC,Logic2,200,Correct,,10046,3511,Neutral Condition,173264
+P38,CRT,CRT2,Emily,Correct,,15876,3511,Neutral Condition,189250
+P38,,Age,Prefer not to say,,,2423,3512,Neutral Condition,194072
+P38,,Gender,Male,,,1919,3512,Neutral Condition,196099
+P38,,Education,Prefer not to say,,,8128,3512,Neutral Condition,204335
+P38,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,8763,3512,Neutral Condition,213208
+P38,,AIFrequency,Rarely or Never,,,3783,3512,Neutral Condition,217099
+P39,,8314,questions/October2026/T3VOcActeh5augvy0I4N.png,,right,11146,3505,Google Effect Control,22203
+P39,,8315,questions/October2026/q3qkiJCAgI4rHverjF4F.png,,left,1828,3505,Google Effect Control,24147
+P39,,8316,questions/October2026/KxaWJqC4rllooAK2CwVC.png,,right,3576,3505,Google Effect Control,27828
+P39,,8317,questions/October2026/SlXTFxnoaJ0qFrsX8L0V.png,,right,2137,3505,Google Effect Control,30075
+P39,,8318,questions/October2026/DM872yYUScwzI9VVhPZn.png,,left,1753,3505,Google Effect Control,31930
+P39,TRIVIA,Trivia4,I don't know,I don't know,,11420,3511,Google Effect Control,45532
+P39,LOGIC,Logic2,200,Correct,,10520,3511,Google Effect Control,56156
+P39,CRT,CRT3,27,Wrong,,17010,3511,Google Effect Control,73268
+P39,TRIVIA,Trivia2,Rh-null,Correct,,7056,3511,Google Effect Control,80428
+P39,CRT,CRT2,Emily,Correct,,6288,3511,Google Effect Control,86820
+P39,CRT,CRT1,8,Correct,,5176,3511,Google Effect Control,92099
+P39,TRIVIA,Trivia1,I don't know,I don't know,,5017,3511,Google Effect Control,97220
+P39,TRIVIA,Trivia3,Helium,Correct,,5273,3511,Google Effect Control,102595
+P39,LOGIC,Logic1,4,Correct,,18490,3511,Google Effect Control,121188
+P39,CRT,CRT4,Second,Correct,,4714,3511,Google Effect Control,126005
+P39,,Age,18-24,,,2188,3512,Google Effect Control,129667
+P39,,Gender,Female,,,1834,3512,Google Effect Control,131603
+P39,,Education,High School / Secondary Education,,,3346,3512,Google Effect Control,135052
+P39,,EnglishFluency,Fluent / Advanced proficiency (C1-C2),,,5937,3512,Google Effect Control,141092
+P39,,AIFrequency,A few times a month,,,4001,3512,Google Effect Control,145195
